@@ -1,30 +1,34 @@
-#电脑起来
-##上电
-*通电*   
-**上电**   
-***每天***   
-[github](www.github.com)
+#how to read a datasheet
+the manufacturers provide those message to the users:  
++ the typical device performance 
++ requirements and characteristics  
 
-![sd](timg.jpg)  
-|立委|是的|上的|
-|:---:|:----:|:--:|
-|为|上的|撒旦|
-|sd |sd|sd|
-|sd sd|  sd|ds|
+-------------------
+**what data have**  
+**1.general description**   
++ 芯片使用的常规描述  
   
-`lkj`
-```
-sadsafasfssadsadasfsad
-```
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |	
--dsad  
--sadasd
-1. 第一项：
-    - 第一项嵌套的第一个元素
-    - 第一项嵌套的第二个元素
-2. 第二项：
-    - 第二项嵌套的第一个元素
-    - 第二项嵌套的第二个元素
+**2.features**  
++ 电气特性  
+   
+**3.applictions**  
++ 应用领域  
+  
+**2.connection diagram**
++ 引脚图  
+  
+**3.ordering information**  
++ 分类信息，该器件的兄弟姐妹  
+  
+**4.absolute maximum ratings**  
++ 绝对最大级别，极限参数，表示超过将损坏芯片  
+  
+**5.operatting ratings**  
++ 表示芯片的基本功能的参数  
+  
+**6.electrical characteristics**  
++ 电气特征，代表直流和交流的电气规范  
+  
+**IN CHINESE**  
+**boot、reset、地址空间、调试信息**
+
