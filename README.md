@@ -1,4 +1,4 @@
-#how to read a datasheet
+#how to read a datasheet  
 the manufacturers provide those message to the users:  
 + the typical device performance 
 + requirements and characteristics  
